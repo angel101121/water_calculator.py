@@ -7,7 +7,6 @@ print("that's good to hear")
 city=input("which city do you like? ")
 print("me too i like this city")
 task=input("can you give me some water? ")
-
 print("thank you" , name )
 question=input("How many glasses of water did you drink today? ")
 question=input("so How many milliliters are in the bottle ?")
@@ -16,3 +15,14 @@ second=int(input("second number"))
 totel_water= first * second 
 print(first, "*", second, "=", totel_water)
 print("that is how many milliliters you drink you should drink more!")
+first=int(input("first number"))
+second=int(input("second number"))
+third=int(input("third number"))
+fourth=int(input("forth number"))
+totel_water= first * second * third * fourth
+print(first, "*", second, "*", third,"*",fourth ,"=" , 
+totel_water)
+if totel_water < 300:    
+    print(" you should drink some water!")
+else:
+    print("very good you drink enough water")
