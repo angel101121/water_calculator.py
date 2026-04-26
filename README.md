@@ -1,2 +1,2 @@
-# something-i-made
+water_calculator.py
 يتفاعل مع المستخدم ويسأله عن حاله وكم شرب من الماء
