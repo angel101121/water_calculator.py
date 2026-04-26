@@ -1,0 +1,18 @@
+name=input("what is your name? ")
+print("welcome" + name)
+question=input("how are you? ")
+print("i'm happy to hear that ")
+feel=input("what is your feel? ")
+print("that's good to hear")
+city=input("which city do you like? ")
+print("me too i like this city")
+task=input("can you give me some water? ")
+
+print("thank you" , name )
+question=input("How many glasses of water did you drink today? ")
+question=input("so How many milliliters are in the bottle ?")
+first=int(input("first number"))
+second=int(input("second number"))
+totel_water= first * second 
+print(first, "*", second, "=", totel_water)
+print("that is how many milliliters you drink you should drink more!")
